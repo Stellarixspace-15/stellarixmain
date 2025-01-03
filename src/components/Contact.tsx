@@ -65,7 +65,7 @@ export default function Contact() {
               <Phone className="h-6 w-6 text-blue-500 mt-1" />
               <div>
                 <h3 className="text-white font-medium">Phone</h3>
-                <p className="text-gray-400">+1 (555) 123-4567</p>
+                <p className="text-gray-400">+91 8122211194</p>
               </div>
             </div>
             <div className="flex items-start space-x-4">
@@ -73,9 +73,9 @@ export default function Contact() {
               <div>
                 <h3 className="text-white font-medium">Address</h3>
                 <p className="text-gray-400">
-                  123 Space Center Boulevard<br />
-                  Houston, TX 77058<br />
-                  United States
+                  Kummalamman Koil Street<br />
+                  Taylors Road Kilpauk<br />
+                  Chennai-10
                 </p>
               </div>
             </div>
