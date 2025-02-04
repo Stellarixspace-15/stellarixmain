@@ -1,15 +1,15 @@
 const missions = [
   {
-    image: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&q=80",
-    title: "Project Starbridge",
-    date: "2024",
-    description: "Revolutionary satellite constellation for global connectivity"
+    image: "https://drive.google.com/file/d/1Ef6W1yad8AVfJ3TxVVbZULoQtIfzUAT7/view?usp=drive_link",
+    title: "Earth Based Module",
+    date: "2025",
+    description: "Earth Based Module for Re-Generative Agriculture"
   },
   {
     image: "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&q=80",
-    title: "Lunar Gateway",
+    title: "Project SSPC1",
     date: "2025",
-    description: "Establishing permanent lunar presence for deep space missions"
+    description: "Space Based Module for Controlled Environment Agriculture"
   },
   {
     image: "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&q=80",
