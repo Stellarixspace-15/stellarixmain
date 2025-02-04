@@ -12,7 +12,7 @@ export default function Navbar() {
             <div className="flex-shrink-0">
               <div className="flex items-center gap-2 text-white">
                 <Rocket className="h-8 w-8 text-blue-500" />
-                <span className="text-xl font-bold">STELLARIX</span>
+                <span className="text-xl font-bold">STELLARIX SPACE</span>
               </div>
             </div>
           </div>
