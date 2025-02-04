@@ -8,10 +8,10 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Rocket className="h-8 w-8 text-blue-500" />
-              <span className="text-xl font-bold">STELLARIX</span>
+              <span className="text-xl font-bold">STELLARIX SPACE PRIVATE LIMITED</span>
             </div>
             <p className="text-gray-400">
-              Pioneering the future of space exploration and technology.
+              The future of space agriculture and exploration technology.
             </p>
           </div>
           
@@ -28,8 +28,8 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Services</h3>
             <ul className="space-y-2">
-              <li><a href="#" className="text-gray-400 hover:text-white">Satellite Systems</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white">Launch Services</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white">Earth Based CEA Systems</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white">Space Based Modules </a></li>
               <li><a href="#" className="text-gray-400 hover:text-white">Space Research</a></li>
               <li><a href="#" className="text-gray-400 hover:text-white">Data Analytics</a></li>
             </ul>
@@ -38,10 +38,10 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Connect</h3>
             <ul className="space-y-2">
-              <li><a href="#" className="text-gray-400 hover:text-white">LinkedIn</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white">Twitter</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white">Instagram</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white">Facebook</a></li>
+              <li><a href="https://www.linkedin.com/company/stellar-ix-space-pvt-ltd/?viewAsMember=true" className="text-gray-400 hover:text-white">LinkedIn</a></li>
+              <li><a href="https://x.com/stellarixspace" className="text-gray-400 hover:text-white">Twitter</a></li>
+              <li><a href="https://www.instagram.com/stellarix_space/" className="text-gray-400 hover:text-white">Instagram</a></li>
+              <li><a href="https://wa.me/+918122211194" className="text-gray-400 hover:text-white">Whatsapp</a></li>
             </ul>
           </div>
         </div>
