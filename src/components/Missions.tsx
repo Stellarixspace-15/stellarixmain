@@ -1,6 +1,6 @@
 const missions = [
   {
-    image: "https://drive.google.com/file/d/1Ef6W1yad8AVfJ3TxVVbZULoQtIfzUAT7/view?usp=drive_link",
+    image: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&q=80",
     title: "Earth Based Module",
     date: "2025",
     description: "Earth Based Module for Re-Generative Agriculture"
@@ -8,14 +8,14 @@ const missions = [
   {
     image: "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&q=80",
     title: "Project SSPC1",
-    date: "2025",
+    date: "2026",
     description: "Space Based Module for Controlled Environment Agriculture"
   },
   {
     image: "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&q=80",
-    title: "Mars Initiative",
-    date: "2026",
-    description: "Pioneering missions for Mars exploration and colonization"
+    title: "Space Printing",
+    date: "2027",
+    description: "Printing Edible foods in Space"
   }
 ];
 
