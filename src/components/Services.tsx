@@ -3,13 +3,13 @@ import { Satellite, Rocket, Globe2, Binary } from 'lucide-react';
 const services = [
   {
     icon: Satellite,
-    title: 'Satellite Systems',
-    description: 'Advanced satellite technology for communication, navigation, and Earth observation.'
+    title: 'Earth Based CEA Systems',
+    description: 'Advanced Controlled Environment for Regenerative Agriculture.'
   },
   {
     icon: Rocket,
-    title: 'Launch Services',
-    description: 'Reliable and cost-effective launch solutions for various payload requirements.'
+    title: 'Space Based Modules',
+    description: 'Space Based CEA module to study Seed Orientation in space.'
   },
   {
     icon: Globe2,
