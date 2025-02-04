@@ -18,11 +18,11 @@ export default function Hero() {
             <Rocket className="h-20 w-20 text-blue-500 animate-pulse" />
           </div>
           <h1 className="text-4xl sm:text-6xl font-bold text-white">
-            Pioneering the Future of
-            <span className="block text-blue-500">Space Technology</span>
+            The Future of
+            <span className="block text-blue-500">Space Agriculture</span>
           </h1>
           <p className="max-w-2xl mx-auto text-xl text-gray-300">
-            Pushing the boundaries of space exploration with cutting-edge innovation and sustainable solutions.
+            Pushing the boundaries of space exploration with innovation and sustainable solutions.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
